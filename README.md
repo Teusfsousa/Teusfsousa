@@ -1,5 +1,5 @@
 ### Olá! Me chamo Mateus Fernandes 👋
-## Sou estudante de Ciência da computação na universidade Anhembi Morumbi, modalidade presencial. Sou apaixonado por tecnologia é suas áreas, desde então venho sempre procurando uma forma de abrangir meus estudos e conhecimentos na área e suas tecnologias.
+## Sou estudante de Ciência da computação na universidade Das Ámericas. Sou apaixonado por tecnologia é suas áreas, desde então venho sempre procurando uma forma de abrangir meus estudos e conhecimentos na área e suas tecnologias.
 - 📧 Email de contato: mateusfdesousa12@gmail.com
 
 - [![Linkedin](https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/mateus-fernandesde-sousa/)
